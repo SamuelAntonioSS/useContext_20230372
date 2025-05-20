@@ -3,7 +3,7 @@ import "./Desinformation";
 
 const Desinformation = () => (
   <div className="info-container">
-    <h1>¿Qué es <code>useContext</code> en React?</h1>
+    <h1>¿Qué es <code>useContext</code> en React? <code>Este es el que no esta oculto :)👍</code></h1>
     <p>
       <strong>useContext</strong> es un hook de React que permite acceder al valor de un contexto directamente en un componente funcional, sin necesidad de utilizar el componente <code>Context.Consumer</code>.
     </p>
