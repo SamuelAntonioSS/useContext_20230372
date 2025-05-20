@@ -11,6 +11,7 @@ const Dashboard = () => {
   const handleLogout = () => {
     if (logOut()) {
       navigate("/");
+      navigate("/information")
     }
   };
 
